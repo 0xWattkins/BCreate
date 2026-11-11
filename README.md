@@ -1,4 +1,4 @@
-# BCreate - "Better Create"
+# BCreate ─ "Better Create"
 Stop using `Instance.new` everytime you want to create a new object, do it all in 1 go with BCreate. Easy to learn and easy to reproduce across multiple projects.
 # Usage
 Load the script from the repository (for exploits):
